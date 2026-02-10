@@ -80,8 +80,9 @@
       "title": "Theta Latest - 30th January 2026"
     }
   ],
-  "sourceURL": "https://driftywinds.github.io/AltStore/theta.json",
+  "sourceURL": "https://raw.githubusercontent.com/ybgmoli/AltStore/refs/heads/main/altstore.json",
   "subtitle": "builds by Moe - https://moe.mohkg1017.pro/",
   "userInfo": {},
-  "website": "https://github.com/driftywinds"
+  "website": "https://raw.githubusercontent.com/ybgmoli/AltStore/refs/heads/main/altstore.json"
 }
+
