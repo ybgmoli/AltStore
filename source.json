@@ -162,8 +162,8 @@
     {
       "name": "Mini Metro+",
       "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
-      "developerName": "Firecore, Moe and dayanch96",
-      "subtitle": "Infuse Pro unlocked",
+      "developerName": "Dinosaur Polo Club",
+      "subtitle": "Apple Arcade version",
       "version": "1.8.0",
       "versionDate": "2025-12-02",
       "downloadURL": "https://files.catbox.moe/r5bqvz.ipa",
@@ -181,3 +181,4 @@
     }
   ]
 }
+
