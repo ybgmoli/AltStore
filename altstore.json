@@ -79,19 +79,11 @@
       "versionDescription": "Install this IPA, tap the circle, click enable login, then login like normal, after your logged in you can install a newer ipa over this ipa"
     }
   ],
+  "description": "Moli's personal repo",
+  "iconURL": "https://github.com/ybgmoli/AltStore/blob/main/repopic.png?raw=true",
   "identifier": "ybgmoli.github.io",
-  "name": "Moli's repo",
-  "news": [
-    {
-      "appID": "com.reddit.Reddit",
-      "caption": "Finally, Reddit can be sideloaded with the ability to block ads and more...",
-      "date": "2022-10-26",
-      "identifier": "reddit-now-available",
-      "imageURL": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG",
-      "notify": false,
-      "tintColor": "ff4600",
-      "title": "RedditFilter is out!"
-    }
+  "name": "ybg Repo",
   ],
   "userInfo": {}
 }
+
